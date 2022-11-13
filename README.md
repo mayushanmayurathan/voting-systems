@@ -1,5 +1,5 @@
 # voting-systems
 
-PROJECT DESCRIPTION: A mock social order system that has potential HR management applications using Python. This program models a society divided into districts with citizens serving various roles that adhere to a social hierarchy using object-oriented programming principles.
+PROJECT DESCRIPTION: Simulated an election environment to extract and manipulate desired data using basic object-oriented programming principles in python. Implemented file reading capability that directly harnessed compatible data sets from CSV files.
 
 COLLABORATOR: Mayushan Mayurathan 
